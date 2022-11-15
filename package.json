@@ -1,0 +1,23 @@
+{
+  "name": "simple-calc",
+  "version": "1.0.0",
+  "description": "An easy to use calculator for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aidan-The-Dev/simple-calculator.git"
+  },
+  "keywords": [
+    "math",
+    "algebra"
+  ],
+  "author": "Aidan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aidan-The-Dev/simple-calculator/issues"
+  },
+  "homepage": "https://github.com/Aidan-The-Dev/simple-calculator#readme"
+}
