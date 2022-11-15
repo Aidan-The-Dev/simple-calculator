@@ -2,7 +2,7 @@
 Simple-Calc is a simple calculator for JavaScript that can help with math either in the console or on your websites! Simple-Calc can also be used for discord!
 
 # Installing
-Run ```npm install simple-calc``` in your console
+Run ```npm install @turtle-pog/simple-calc``` in your console
 
 # Usage
 Keep in mind that you _have to have a space between your numbers and the operator_
@@ -10,7 +10,7 @@ Keep in mind that you _have to have a space between your numbers and the operato
 Example Usage:
 
 ```javascript
-const math = require('simple-calc')
+const math = require('@turtle-pog/simple-calc')
 
 let answer = math.calculate(4, '*', 2)
 
@@ -20,7 +20,7 @@ console.log(answer)
 #
 Example for discord.js
 ```javascript
-const math = require('simple-calc')
+const math = require('@turtle-pog/simple-calc')
 let args = message.content.trim().split(/ +/g)
 
 try {
