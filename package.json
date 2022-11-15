@@ -1,5 +1,5 @@
 {
-  "name": "simple-calc",
+  "name": "@turtle-pog/simple-calc",
   "version": "1.0.0",
   "description": "An easy to use calculator for javascript",
   "main": "index.js",
